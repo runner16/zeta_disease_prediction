@@ -23,4 +23,5 @@ The dataset includes 9 columns with information on 800 people.
               
   Mar's Mission Control Zeta Prediction.ipynb is the jupyter notebook which has all the results.
   final_predictions.csv is the csv file which contains the predictions on the new dataset.
-  The dataset folder contains the zeta_training_set and the zeta_prediction_set respectively.
+  zeta_training_set.csv is the training data file.
+  zeta_prediction_set.csv is the newly introduced test file.
